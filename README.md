@@ -27,7 +27,6 @@ https://github.com/user-attachments/assets/3ce91ad8-b30f-407b-aef7-a513a4e25c3f
 
 - **Real-flight-data-calibrated MuJoCo model** including actuator dynamics, measurement uncertainty, and stochastic residual force/torque.
 - **Real-world vs. simulation comparison** for MOCE 2.0 and the DOB baseline under matched CoM-biased conditions.
-- **Monte Carlo robustness validation** under increasing CoM-bias severity using Common Random Numbers (CRN).
 
 🔗 [MOCE Simulation Repository](https://github.com/SEOSUK/MOCE_simulation)
 
