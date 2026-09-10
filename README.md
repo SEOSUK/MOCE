@@ -29,7 +29,7 @@
 
 ## 🔹 Simulation-Based Validation
 
-https://github.com/user-attachments/assets/3ce91ad8-b30f-407b-aef7-a513a4e25c3f
+https://github.com/user-attachments/assets/69440d7c-72fa-48b6-b2dc-c435f4277e90
 
 - **Real-flight-data-calibrated MuJoCo model** including actuator dynamics, measurement uncertainty, and stochastic residual force/torque.
 - **Real-world vs. simulation comparison** for MOCE 2.0 and the DOB baseline under matched CoM-biased conditions.
