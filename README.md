@@ -19,7 +19,13 @@
 
 ## 🎥 Project Demo
 
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=IqTcnkQkOss&t=1s)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2bd8a3b7-dce3-4054-8232-4bc61926ae98"
+       alt="MOCE 2.0 Real-World Validation"
+       width="900">
+</div>
+
+🔗 [Full Video Version](https://www.youtube.com/watch?v=IqTcnkQkOss&t=1s)
 
 ## 🔹 Simulation-Based Validation
 
