@@ -3,26 +3,7 @@
 
 **Project Period:** Apr. 2025 – Mar. 2026
 
-<em>Accepted in Drones (MDPI), 2026 — “Transient-Buffered Allocation Geometry Adaptation for Fully Actuated Multirotor UAVs under Center-of-Mass Variations” — Seuk Seo, Hyungeun Park, Geonwoo Park, Seung Jae Lee*</em>
-
-## 🔹 Overview
-
-<table>
-  <tr>
-    <td width="46%" align="center">
-      <img src="https://github.com/user-attachments/assets/eddd60d9-76bd-4b92-bda5-ebd023d18d79"
-           alt="MOCE 2.0 Overview"
-           width="380">
-    </td>
-    <td width="54%" valign="middle">
-      <ul>
-        <li><b>Online CoM estimation</b> from disturbance-observer compensation.</li>
-        <li><b>CoM-aware allocation geometry update</b> for fully actuated multirotors.</li>
-        <li><b>DOB-based transient buffering</b> during adaptation.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<em>Accepted in <a href="https://www.mdpi.com/2504-446X/10/9/673">Drones (MDPI)</a>, 2026 — “Transient-Buffered Allocation Geometry Adaptation for Fully Actuated Multirotor UAVs under Center-of-Mass Variations” — Seuk Seo, Hyungeun Park, Geonwoo Park, Seung Jae Lee*</em>
 
 ## 🔹 Methodology
 
@@ -31,6 +12,10 @@
        alt="MOCE 2.0 Methodology"
        width="900">
 </div>
+
+- **Online CoM estimation** from disturbance-observer compensation.
+- **CoM-aware allocation geometry update** for fully actuated multirotors.
+- **DOB-based transient buffering** during adaptation.
 
 ## 🎥 Project Demo
 
