@@ -1,0 +1,9 @@
+[submodule "px4_firmware"]
+	path = px4_firmware
+	url = https://github.com/SEOSUK/PX4-Modifying.git
+	branch = master
+
+[submodule "ros2_interface"]
+	path = ros2_interface
+	url = https://github.com/SEOSUK/PX4-Modifying-Lattepanda.git
+	branch = master
